@@ -1,0 +1,12 @@
+env/
+*.pyc
+*.log
+*.txt
+*.csv
+*.xlsx
+*.xls
+*.docx
+*.doc
+*.pdf
+*.png
+*.jpg

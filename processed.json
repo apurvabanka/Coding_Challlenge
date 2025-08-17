@@ -1,0 +1,12 @@
+{
+  "leads": [
+    {
+      "_id": "jkj238238jdsnfsj23",
+      "email": "foo@bar.com",
+      "firstName": "John",
+      "lastName": "Smite",
+      "address": "123 Street St",
+      "entryDate": "2015-05-07T17:30:20+00:00"
+    }
+  ]
+}

@@ -1,7 +1,6 @@
 env/
 *.pyc
 *.log
-*.txt
 *.csv
 *.xlsx
 *.xls
